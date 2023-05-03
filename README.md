@@ -27,7 +27,7 @@
       problemática e pudessem se conscientizar com a mesma, então surgiu o AmiMais, com
       o intuito que as pessoas amem mais os animais.
    </p>
-   <img width="900px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054540616886931546/APRESENTACAO.jpg" />
+   <img width="900px" src="https://user-images.githubusercontent.com/88636833/235959996-66bdff26-4954-4c02-8da6-2d97db040333.png" />
     <h2>👩‍💻 Tecnologias usadas </h2>
 </div>
 
